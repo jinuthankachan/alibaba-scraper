@@ -12,6 +12,9 @@ Scrapes alibaba for searched terms.
 pip install -r requirements.txt
 ```
 
+2. Create folder `output` in the project directory.
+
+
 2. Run
 ```
 python srp.py
