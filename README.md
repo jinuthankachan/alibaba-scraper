@@ -1,3 +1,5 @@
+[unmaintained]
+
 # Alibaba Scrapper
 Scrapes alibaba for searched terms.
 
